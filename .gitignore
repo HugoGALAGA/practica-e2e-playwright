@@ -3,4 +3,5 @@ test-results/
 playwright-report/
 blob-report/
 playwright/.cache/
+.playwright-mcp/
 .DS_Store
